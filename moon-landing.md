@@ -1,5 +1,7 @@
 ---
-tags: history, date
+tags:
+- history
+- date
 author: gduverger
 ---
 
