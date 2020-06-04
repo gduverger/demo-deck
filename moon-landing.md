@@ -1,5 +1,5 @@
 ---
-tags: history
+tags: history, date
 ---
 
 Moon landing date
